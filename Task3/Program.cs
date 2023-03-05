@@ -12,6 +12,3 @@ else
 {
     Console.WriteLine($"Number {a} is even"); //четное
 }
-
-
-
